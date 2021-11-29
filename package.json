@@ -1,0 +1,23 @@
+{
+  "name": "accordion-controller",
+  "version": "1.0.0",
+  "description": "A simple controller for accessible accordions",
+  "main": "accordionController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSpecific/accordion-controller.git"
+  },
+  "keywords": [
+    "Accordion",
+    "accessible"
+  ],
+  "author": "Will Christenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSpecific/accordion-controller/issues"
+  },
+  "homepage": "https://github.com/MrSpecific/accordion-controller#readme"
+}
